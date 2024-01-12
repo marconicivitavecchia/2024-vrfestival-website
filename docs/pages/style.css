@@ -19,3 +19,9 @@ span.checked {
 li:has( span.checked)::after {
     content: " (prenotato)"
 }
+
+.detail {
+    border-radius: 3px;
+    background-color: rgb(248, 249, 250);
+    padding: 1em;
+}
