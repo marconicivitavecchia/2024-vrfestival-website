@@ -221,3 +221,7 @@ footer {
 .card-watch {
   display: none;
 }
+
+.space-top {
+  margin-top: 1em;
+}
