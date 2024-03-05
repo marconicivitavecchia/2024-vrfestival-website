@@ -60,3 +60,7 @@ table.yt-time th {
     background-color: #ddd;
     color: #505050;
 }
+
+img.contest {
+    width: 80%;
+}
